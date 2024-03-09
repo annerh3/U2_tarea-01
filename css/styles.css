@@ -1,0 +1,36 @@
+
+body {
+    background-color: #2c2ca3;
+    color: #ffffff;
+    font-family: 'Carrois Gothic SC', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.contenido {
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+h1 {
+    color: #ffcc00;
+}
+
+.h2 {
+    color: #c5c80d;
+}
+
+a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
