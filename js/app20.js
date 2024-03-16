@@ -6,3 +6,4 @@ alert('Ver en consola.')
 const resultado = multiply(3,2)
 function multiply(a, b) { return a * b} 
 console.log(resultado);
+// faltó "return;"
